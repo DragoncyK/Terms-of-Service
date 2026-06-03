@@ -10,4 +10,4 @@ The developer reserves the right to modify or discontinue the service at any tim
 
 Users may not use this application for illegal activities or activities that violate Discord's policies.
 
-Contact: your@email.com
+Contact: dragon_of_an_angel on Discord.
